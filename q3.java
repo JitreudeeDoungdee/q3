@@ -1,4 +1,6 @@
 import java.util.Scanner;
 public class XOJava {
-	scanner
+	public static void main(String[] args){
+		System.out.print("s");
+	}
 }
